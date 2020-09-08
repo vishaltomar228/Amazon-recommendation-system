@@ -19,6 +19,6 @@ I have taken the dataset from kaggle. The data is preprocessed and the total num
 
 The products are recommended with the help of the model.
 
-Accuracy score of recommendation = 0.904
+Accuracy score of recommendation = 0.902
 
-Accuracy score of not recommendation = 0.9504
+Accuracy score of not recommendation = 0.952
